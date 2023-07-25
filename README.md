@@ -2,7 +2,7 @@
 
 ## Description
 
-This a beginners exercise for TypeScript to learn about the basic concept and methods of typescript implementation.
+It is a comprehensive introduction to the basic concepts and methods of TypeScript implementation, covering everything from types and interfaces to classes and modules.
 
 ## Topics Covers
 
